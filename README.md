@@ -1,6 +1,7 @@
 <p align="center">
-<img src="/assets/welcome.gif" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&color=C3A400FF&size=25&center=true&vCenter=true&width=500&lines=Hi+there+!+%F0%9F%91%8B;I'm+Ahmed+Osama.+%F0%9F%A4%9D;I'm+happy+to+see+you+here.+%E2%9D%A4%EF%B8%8F" /> </a>
 </p>
+
 
 [![Years Badge](https://badges.pufler.dev/years/aotantawy)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/aotantawy/aotantawy)](https://badges.pufler.dev)
