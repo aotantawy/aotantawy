@@ -20,3 +20,4 @@
 - **Graduated from faculty of computers and artificial intelligence, Cairo university 🎓**
 - **Specialized in back-end engineering 👨‍💻**
 
+  [___Download CV___](https://github.com/aotantawy/aotantawy/raw/master/assets/AhmedOsama-CV.pdf)
