@@ -1,35 +1,40 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&color=0000FF&size=30&center=true&vCenter=true&width=500&lines=Hi+There+!!++%F0%9F%91%8B" /> </a>
-</p>
+<h1> Hi There! 👋 </h1> 
 
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=aotantawy&show_icons=true&count_private=true&hide_border=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aotantawy&layout=compact&hide_border=true&show_icons=true&count_private=true&hide=html,css,ejs)](https://github.com/anuraghazra/github-readme-stats)
 
-|![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=aotantawy&show_icons=true&count_private=true&hide_border=true)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aotantawy&hide_border=true)](https://git.io/streak-stats)|
-|---|---|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aotantawy&layout=compact&hide_border=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|
+## ℹ️ About me
 
+- *👶 October 17, 1998*
+- *🇪🇬 Egyptian*
+- *🎓 Faculty of computers and artificial intelligence, Cairo university*
+- *🔥 Back-end engineering*
 
-<br>
+<br />
 
-[![Years Badge](https://badges.pufler.dev/years/aotantawy)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/aotantawy/aotantawy)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/aotantawy)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/aotantawy)](https://badges.pufler.dev)
+## 💬 Get in touch
 
----
+[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:aotantawy@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aotantawy/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://aotantawy.blogspot.com)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aotantawy)&nbsp;&nbsp;&nbsp;&nbsp;
+[![HackerRank](https://img.shields.io/badge/-hackerrank-7cfc00?&style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/aotantawy)&nbsp;&nbsp;&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?&style=for-the-badge&logo=LeetCode&logoColor=white&labelColor=000000)](https://leetcode.com/aotantawy/)&nbsp;&nbsp;&nbsp;&nbsp;
 
-# ℹ️ About me: 
+<br />
 
-- **I was born on October 17, 1998 👶**
-- **Egyptian 🇪🇬**
-- **Graduated from faculty of computers and artificial intelligence, Cairo university 🎓**
-- **Specialized in back-end engineering 👨‍💻**
+## 🌐 Favorite websites
 
-# 💬 Connect with me
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://udemy.com/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)](https://www.udacity.com/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)&nbsp;&nbsp;&nbsp;&nbsp;
 
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/aotantawy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/aotantawy"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:aotantawy@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.hackerrank.com/aotantawy"><img src="https://img.shields.io/badge/-hackerrank-7cfc00?&style=for-the-badge&logo=hackerrank&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://leetcode.com/aotantawy/"><img src="https://img.shields.io/badge/-LeetCode-ff8c00?&style=for-the-badge&logo=LeetCode&logoColor=white&labelColor=000000" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<br />
+<br />
+
+<p align="center"> 
+  <img src="https://badges.pufler.dev/visits/aotantawy/aotantawy?&style=for-the-badge" alt="visits badge"/>
 </p>
