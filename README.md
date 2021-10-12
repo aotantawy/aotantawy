@@ -16,14 +16,14 @@
 
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:aotantawy@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aotantawy/)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://aotantawy.blogspot.com)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://aotantawy.hashnode.dev/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aotantawy)&nbsp;&nbsp;&nbsp;&nbsp;
 [![HackerRank](https://img.shields.io/badge/-hackerrank-7cfc00?&style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/aotantawy)&nbsp;&nbsp;&nbsp;&nbsp;
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?&style=for-the-badge&logo=LeetCode&logoColor=white&labelColor=000000)](https://leetcode.com/aotantawy/)&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br />
 
-## 🌐 Favorite websites
+## ⭐ Favorite websites
 
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://udemy.com/)&nbsp;&nbsp;&nbsp;&nbsp;
