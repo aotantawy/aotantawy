@@ -1,7 +1,7 @@
 <h1> Assalamualaikum, السلام عليكم 👋 </h1>
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=aotantawy&show_icons=true&count_private=true&hide_border=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aotantawy&layout=compact&hide_border=true&show_icons=true&count_private=true&hide=html,css,ejs)](https://github.com/anuraghazra/github-readme-stats)
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=aotantawy&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aotantawy&layout=compact&hide_border=true&show_icons=true&count_private=true&hide=html,css,ejs&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 💬 Get in touch
